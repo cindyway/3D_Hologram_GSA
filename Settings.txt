@@ -1,0 +1,29 @@
+
+
+Source code on off-axis hologram generation and reconstruction, together with 2 sample images.
+
+Sample images:
+
+ctu.bmp, pep.bmp
+
+Hologram type:
+
+Off-axis Fresnel hologram
+
+Double depth: Left side of image: 0.35m, right side of image 0.38m from hologram, respectively
+
+Optical settings:
+
+Wavelength: 650nm
+
+Pixel size: 7um
+
+Hologram/image size: 2048x2048
+
+Reference beam: Plane wave
+
+Angle of incidence of reference beam: 0.8 degree along vertical direction
+
+Reconstruction distance:
+
+0.35m
